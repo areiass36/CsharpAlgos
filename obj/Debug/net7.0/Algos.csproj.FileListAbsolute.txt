@@ -1,0 +1,15 @@
+/Users/barretoareias/Studies/dotnet/Algos/bin/Debug/net7.0/Algos
+/Users/barretoareias/Studies/dotnet/Algos/bin/Debug/net7.0/Algos.deps.json
+/Users/barretoareias/Studies/dotnet/Algos/bin/Debug/net7.0/Algos.runtimeconfig.json
+/Users/barretoareias/Studies/dotnet/Algos/bin/Debug/net7.0/Algos.dll
+/Users/barretoareias/Studies/dotnet/Algos/bin/Debug/net7.0/Algos.pdb
+/Users/barretoareias/Studies/dotnet/Algos/obj/Debug/net7.0/Algos.csproj.AssemblyReference.cache
+/Users/barretoareias/Studies/dotnet/Algos/obj/Debug/net7.0/Algos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/barretoareias/Studies/dotnet/Algos/obj/Debug/net7.0/Algos.AssemblyInfoInputs.cache
+/Users/barretoareias/Studies/dotnet/Algos/obj/Debug/net7.0/Algos.AssemblyInfo.cs
+/Users/barretoareias/Studies/dotnet/Algos/obj/Debug/net7.0/Algos.csproj.CoreCompileInputs.cache
+/Users/barretoareias/Studies/dotnet/Algos/obj/Debug/net7.0/Algos.dll
+/Users/barretoareias/Studies/dotnet/Algos/obj/Debug/net7.0/refint/Algos.dll
+/Users/barretoareias/Studies/dotnet/Algos/obj/Debug/net7.0/Algos.pdb
+/Users/barretoareias/Studies/dotnet/Algos/obj/Debug/net7.0/Algos.genruntimeconfig.cache
+/Users/barretoareias/Studies/dotnet/Algos/obj/Debug/net7.0/ref/Algos.dll
